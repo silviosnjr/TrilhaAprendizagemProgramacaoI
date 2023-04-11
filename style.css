@@ -1,0 +1,17 @@
+
+body{
+    background-color: escreva uma COR em inglês aqui;
+    color: escreva uma COR em inglês aqui;
+    font-family: escreva o nome de uma FONTE aqui;   
+}
+
+h1, p{
+    text-align: centralize o texto com o termo certo;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+
